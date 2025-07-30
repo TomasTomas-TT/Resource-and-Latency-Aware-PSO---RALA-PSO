@@ -1,4 +1,4 @@
-# PSO-based Resource Allocation and Scheduling
+# Resource-and-Latency-Aware-PSO---RALA-PSO
 
 ## Overview
 
